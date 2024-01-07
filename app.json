@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "schoolattendanceapp--template",
+    "slug": "snack-80df9732-f97c-452c-a98f-f173468a6765",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"com.testuser-schoolattendanceapp--template"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2e9e821f-1dc6-4ee6-b1e7-0e4382cd6885"
+      }
+    }
+  }
+}
